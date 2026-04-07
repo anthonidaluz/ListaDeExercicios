@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Exercicio01/Exercicio01.csproj" Id="d0ce6461-892f-4fff-b726-c153185fe1df" />
+  <Project Path="Exercicio010/Exercicio10.csproj" Id="e3091201-9dff-42b2-8bd0-b033239b0d9e" />
+  <Project Path="Exercicio02/Exercicio02.csproj" Id="a96772a0-114b-469d-9907-d20bed54c672" />
+  <Project Path="Exercicio03/Exercicio03.csproj" Id="4fe0c562-dd56-4cbe-bbff-2620f36ceee1" />
+  <Project Path="Exercicio04/Exercicio04.csproj" Id="f995c77a-3862-4c53-a1cd-b1e5095e9219" />
+  <Project Path="Exercicio05/Exercicio05.csproj" Id="aac2bdfa-30d0-481b-bd53-9675baca43f2" />
+  <Project Path="Exercicio06/Exercicio06.csproj" Id="0e21ad73-0bdd-4a35-8ec9-15f9b4b0ff29" />
+  <Project Path="Exercicio07/Exercicio07.csproj" Id="c3093159-fe52-497e-b537-6ab4484e675d" />
+  <Project Path="Exercicio08/Exercicio08.csproj" Id="90a8d743-3a49-4374-ab98-c4f52923f502" />
+  <Project Path="Exercicio09/Exercicio09.csproj" Id="047579d8-3622-4261-86a5-9011f4173a76" />
+</Solution>
